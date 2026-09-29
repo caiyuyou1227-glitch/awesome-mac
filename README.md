@@ -1428,6 +1428,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 
 ### Productivity
 
+
 * [1440 Minutes Left Today](https://1440app.com/) - Show how many minutes are left in the day from your menu bar. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/1440/id1483764819?platform=mac)
 * [ActivityWatch](https://activitywatch.net/) - Cross-platform, extensible, and privacy-focused time-tracker. [![Open-Source Software][OSS Icon]](https://github.com/ActivityWatch/activitywatch) ![Freeware][Freeware Icon]
 * [Alfred](https://www.alfredapp.com/) - Launcher and automation tool with hotkeys, snippets, and search. [![Awesome List][awesome-list Icon]](https://github.com/learn-anything/alfred-workflows#readme)
@@ -1492,6 +1493,7 @@ If you have any suggestions, ideas, or discover excellent software, feel free to
 * [Strategr](https://khrykin.github.io/strategr/) - Time-boxing planner for structuring your day. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/khrykin/StrategrDesktop)
 * [StrokeMouse](https://strokemouse.com) - Custom mouse gestures that can trigger keyboard shortcuts, open apps, perform window actions, run shell commands, or execute AppleScript after drawing a stroke. [![Open-Source Software][OSS Icon]](https://github.com/Licoy/StrokeMouse) ![Freeware][Freeware Icon]
 * [SwiftBiu](https://swiftbiu.com/) - Text productivity tool with a customizable action bar and AI extensions. [![App Store][app-store Icon]](https://apps.apple.com/cn/app/swiftbiu/id6754772331?platform=mac)
+* [Tequila](https://github.com/caiyuyou1227-glitch/tequila) - Native macOS productivity app integrating Focus, Timer, Calendar, Unified Mail, and Logs. [![Open-Source Software][OSS Icon]](https://github.com/caiyuyou1227-glitch/tequila) [![Freeware][Freeware Icon]](https://github.com/caiyuyou1227-glitch/tequila)
 * [Table Habit](https://github.com/FriesI23/mhabit) – Habit tracker with growth charts and offline-first sync. ![Open-Source Software][OSS Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/table-habit/id6744886469?platform=mac)
 * [Time Out](https://www.dejal.com/timeout/) - Easy break reminders, with micro-break and flexible customization if you want it. ![Freeware][Freeware Icon] [![App Store][app-store Icon]](https://apps.apple.com/us/app/time-out-break-reminders/id402592703?platform=mac)
 * [TimeScribe](https://timescribe.app/) - Simple and free working time recording. [![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]](https://github.com/WINBIGFOX/TimeScribe)
